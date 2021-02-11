@@ -1,20 +1,24 @@
+
+<a href='https://postimg.cc/pyv4674v' target='_blank'><img src='https://i.postimg.cc/pyv4674v/Recon-Logo.png' border='0' alt='Recon-Logo'/></a>
+
 # Recon Tools
  A compiled list of tools for reconnaissance and footprinting
 
 ## Site Information
- Domain and Network Information
- Netcraft – https://netcraft.com [web]
- nslookup – [Windows cmd]
-     - Set interactive mode: Type nslookup in cmd prompt
-     - Set type: type set type=a – sets type to query for domain
-                                  set type=CNAME – sets type to query for CNAME records
- Professional Toolset – https://network-tools.com [application]
- You Get Signal – https://yougetsignal.com [web]
- tracert – [Windows cmd]
-   - Traceroute can be used to extract information about topology, firewalls, etc.
- traceroute – [Linux cmd]
- VisualRoute – http://visualroute.com [web]
- Traceroute NG – https://solarwinds.com [application]
+
+Domain and Network Information
+Netcraft – https://netcraft.com [web]
+nslookup – [Windows cmd]
+- Set interactive mode: Type nslookup in cmd prompt
+- Set type: type set type=a – sets type to query for domain
+                 set type=CNAME – sets type to query for CNAME records
+Professional Toolset – https://network-tools.com [application]
+You Get Signal – https://yougetsignal.com [web]
+tracert – [Windows cmd]
+- Traceroute can be used to extract information about topology, firewalls, etc.
+traceroute – [Linux cmd]
+VisualRoute – http://visualroute.com [web]
+Traceroute NG – https://solarwinds.com [application]
 
 ## Geographical Data/Ips/Whois
 
