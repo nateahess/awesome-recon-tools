@@ -14,5 +14,6 @@ PeekYou - https://peekyou.com [web app]
 
 ## Linux CLI // Kali  
 
-theHarvester - https://tools.kali.org/information-gathering/theharvester  
+Jigsaw - https://www.jigsawsecurityenterprise.com/  
 sherlock - https://github.com/sherlock-project/sherlock  
+theHarvester - https://tools.kali.org/information-gathering/theharvester  
