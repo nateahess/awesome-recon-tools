@@ -17,7 +17,7 @@
 ### [Domain and Network Information](https://github.com/nahberry/Recon-Tools/blob/main/Domain%20and%20Network%20Information/Domain_and_Network.md) :satellite:  
 Tools for grabbing network related information.  
 
-### [Persional Information // Email Footprinting](https://github.com/nahberry/Recon-Tools/blob/main/Personal%20Information%20and%20Email%20Footprinting/PII_and_Email.md) :bust_in_silhouette:  
+### [Personal Information // Email Footprinting](https://github.com/nahberry/Recon-Tools/blob/main/Personal%20Information%20and%20Email%20Footprinting/PII_and_Email.md) :bust_in_silhouette:  
 Tools for finding personal information such as social networks and emails as well as footprinting tools for mail.  
 
 ### [Hacking with Google](https://github.com/nahberry/Recon-Tools/blob/main/Hacking%20with%20Google/Hacking_with_Google.md) :eyeglasses:  
