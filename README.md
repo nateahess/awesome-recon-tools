@@ -6,7 +6,13 @@
 
  **Just now beginning to work on this. Feel free to add tools that you love, use, or just know about!
 
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?logoColor=%23000&style=social&url=https%3A%2F%2Fctt.ac%2Fcz2om">
+<div align="left" style="display:flex;flex-direction:column;">
+  <p>
+    <a href="https://ctt.ac/cz2om">
+      <img alt="Tweet" src="https://img.shields.io/twitter/url?logoColor=%23000&style=social&url=https%3A%2F%2Fctt.ac%2Fcz2om">
+    </a>
+  </p>
+</div>
 
 ### [Domain and Network Information](https://github.com/nahberry/Recon-Tools/blob/main/Domain%20and%20Network%20Information/Domain_and_Network.md) :satellite:  
 Tools for grabbing network related information.  
