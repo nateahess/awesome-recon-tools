@@ -19,3 +19,6 @@ Tools for grabbing network related information.
 
 ### [Persional Information // Email Footprinting](https://github.com/nahberry/Recon-Tools/blob/main/Personal%20Information%20and%20Email%20Footprinting/PII_and_Email.md) :bust_in_silhouette:  
 Tools for finding personal information such as social networks and emails as well as footprinting tools for mail.  
+
+### [Hacking with Google](https://github.com/nahberry/Recon-Tools/blob/main/Personal%20Information%20and%20Email$20Footprinting/Hacking_with_Google.md) :eyeglasses:  
+Use Google commands to your advantage  
