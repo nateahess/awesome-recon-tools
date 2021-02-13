@@ -4,7 +4,8 @@
 # Recon Tools
  A compiled list of tools for reconnaissance and footprinting.
 
- **Just now beginning to work on this. Feel free to add tools that you love, use, or just know about!
+ New project: Feel free to add tools that you love, use, or just know about!  
+ (I am testing tools as I add them to verify that they are working or being maintained)
 
 <div align="left" style="display:flex;flex-direction:column;">
   <p>
