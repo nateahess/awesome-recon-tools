@@ -1,6 +1,6 @@
 
 
-# IP Addresses / Domain Information / and more
+# Web Server Info / Domain Information / and more
 
 ## Programs and Web Applications:
 
@@ -8,6 +8,7 @@ ARIN Whois/RDAP – https://arin.net/about/welcom/region [web app] :white_circle
 Batch IP Converter - http://sabsoft.com [program]  
 BuiltWith - https://builtwith.com [web app]  
 Censys - https://censys.io [program]  
+DNSDumpster - https://dnsdumpster.com [web app]  
 Domaintools - https://whois.domaintools.com  
 FindSubDomains - https://findsubdomains.com [web app]  
 FireCompass - https://firecompass.com [program]  
@@ -21,6 +22,7 @@ SpiderFoot - https://www.spiderfoot.net/ [program] :white_circle:
 Traceroute NG - https://solarwinds.com [program]  
 VisualRoute - http://www.visualroute.com [web app]  
 You Get Signal - https://yougetsignal.com [web app]  
+Wappalyzer - https://wappalyzer.com [web app]  
 WebShag - https://github.com/wereallfeds/webshag [program] :white_circle:  
 Wireshark - https://wireshark.org [program] :white_circle:  
 Whois.net - https://whois.net [web app]  
