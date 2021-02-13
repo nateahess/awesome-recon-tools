@@ -5,9 +5,9 @@
 ## Programs and Web Applications:
 
 ARIN Whois/RDAP – https://arin.net/about/welcom/region [web app] :white_circle:  
-Batch IP Converter - https://sabsoft.com [program]  
+Batch IP Converter - http://sabsoft.com [program]  
 BuiltWith - https://builtwith.com [web app]  
-Censys - https://censys.io [web app]
+Censys - https://censys.io [program]  
 Domaintools - https://whois.domaintools.com  
 FindSubDomains - https://findsubdomains.com [web app]  
 FireCompass - https://firecompass.com [program]  
@@ -19,7 +19,7 @@ Shodan - https://shodan.io [web app] :white_circle:
 SmartWhois - https://tamos.com [program]  
 SpiderFoot - https://www.spiderfoot.net/ [program] :white_circle:  
 Traceroute NG - https://solarwinds.com [program]  
-VisualRoute - http://visualroute.com [web app]  
+VisualRoute - http://www.visualroute.com [web app]  
 You Get Signal - https://yougetsignal.com [web app]  
 WebShag - https://github.com/wereallfeds/webshag [program] :white_circle:  
 Wireshark - https://wireshark.org [program] :white_circle:  
