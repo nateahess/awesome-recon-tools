@@ -22,7 +22,7 @@ SpiderFoot - https://www.spiderfoot.net/ [program] :white_circle:
 Traceroute NG - https://solarwinds.com [program]  
 VisualRoute - http://www.visualroute.com [web app]  
 You Get Signal - https://yougetsignal.com [web app]  
-Wappalyzer - https://wappalyzer.com [web app]  
+Wappalyzer - https://www.wappalyzer.com [web app]  
 WebShag - https://github.com/wereallfeds/webshag [program] :white_circle:  
 Wireshark - https://wireshark.org [program] :white_circle:  
 Whois.net - https://whois.net [web app]  
