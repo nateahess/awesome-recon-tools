@@ -1,15 +1,15 @@
 
 # Personal Information & Email Footprinting
 
-## Programs and Web Applications:
+## Programs and Web Applications
 
-BeenVerified - https://beenverified.com [web app]  
-eMailTrackerPro - https://emailtrackerpro.com [program]  
-Followerwonk - https://followerwonk.com [web app]  
-Hootsuite - https://hootsuite.com [web app]  
-Infoga - https://github.com/m4ll0k/infoga [program]  
-Mailtrack - https://mailtrack.io [web app/extension]  
-PeekYou - https://peekyou.com [web app]  
+[BeenVerified](https://beenverified.com) [web]  
+[eMailTrackerPro](https://emailtrackerpro.com) [program]  
+[Followerwonk](https://followerwonk.com) [web]  
+[Hootsuite](https://hootsuite.com) [web]  
+[Infoga](https://github.com/m4ll0k/infoga) [program]  
+[Mailtrack](https://mailtrack.io) [web/ext]  
+[PeekYou](https://peekyou.com) [web]  
 
 
 ## Linux CLI // Kali  

@@ -2,7 +2,7 @@
 
 # Domain and Network Recon
 
-## Programs and Web Applications:
+## Programs and Web Applications
 
 [ARIN Whois/RDAP](https://arin.net/about/welcom/region) [web] :white_circle:  
 [Batch IP Converter](http://sabsoft.com) [program]  
