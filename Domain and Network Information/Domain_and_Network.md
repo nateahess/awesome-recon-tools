@@ -21,6 +21,7 @@ Shodan - https://shodan.io [web app] :white_circle:
 SmartWhois - https://tamos.com [program]  
 SpiderFoot - https://www.spiderfoot.net/ [program] :white_circle:  
 Traceroute NG - https://solarwinds.com [program]  
+URL Fuzzer - https://pentest-tools.com [web app]  
 VisualRoute - http://www.visualroute.com [web app]  
 You Get Signal - https://yougetsignal.com [web app]  
 Wappalyzer - https://www.wappalyzer.com [web app]  
