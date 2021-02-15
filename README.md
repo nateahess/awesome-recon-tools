@@ -5,7 +5,6 @@
  > A compiled list of tools for  
  reconnaissance and footprinting.
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <div align="left" style="display:flex;flex-direction:column;">
@@ -16,6 +15,7 @@
   </p>
 </div>
 
+##Contents
 
 ### [Domain and Network Information](https://github.com/nahberry/Recon-Tools/blob/main/Domain%20and%20Network%20Information/Domain_and_Network.md) :satellite:  
 Tools for grabbing network related information.  
