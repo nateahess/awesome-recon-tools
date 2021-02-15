@@ -1,8 +1,7 @@
 
 ![header-image](https://github.com/nahberry/Recon-Tools/blob/main/Logo/Recon-Tools.PNG)
 
-# Recon Tools
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Recon Tools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
  > A compiled list of tools for  
  reconnaissance and footprinting.
 
