@@ -5,7 +5,7 @@
  > A compiled list of tools for  
  reconnaissance and footprinting.
 
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <div align="left" style="display:flex;flex-direction:column;">
   <p>
