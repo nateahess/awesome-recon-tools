@@ -2,10 +2,10 @@
 ![header-image](https://github.com/nahberry/Recon-Tools/blob/main/Logo/Recon_Logo.PNG)
 
 # Recon Tools
- A compiled list of tools for reconnaissance and footprinting.
+ > A compiled list of tools for  
+ reconnaissance and footprinting.
 
- New project: Feel free to add tools that you love, use, or just know about!  
- (I am testing tools as I add them to verify that they are working or being maintained)
+ [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 
 <div align="left" style="display:flex;flex-direction:column;">
   <p>
@@ -14,6 +14,7 @@
     </a>
   </p>
 </div>
+
 
 ### [Domain and Network Information](https://github.com/nahberry/Recon-Tools/blob/main/Domain%20and%20Network%20Information/Domain_and_Network.md) :satellite:  
 Tools for grabbing network related information.  
