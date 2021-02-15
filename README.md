@@ -6,6 +6,7 @@
  reconnaissance and footprinting.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <div align="left" style="display:flex;flex-direction:column;">
   <p>
