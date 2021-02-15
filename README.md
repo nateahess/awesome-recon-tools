@@ -5,7 +5,7 @@
  > A compiled list of tools for  
  reconnaissance and footprinting.
 
- [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <div align="left" style="display:flex;flex-direction:column;">
   <p>
