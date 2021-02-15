@@ -92,7 +92,7 @@ Quick and easy Whois lookup. Domain name search, registration and availability, 
 >Command Line tools for quick and easy recon  
 
 nslookup - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup   
-tracert - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracert  
+tracert - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracert   
 
 
 ## Linux CLI // Kali
