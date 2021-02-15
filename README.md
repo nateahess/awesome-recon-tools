@@ -2,10 +2,11 @@
 ![header-image](https://github.com/nahberry/Recon-Tools/blob/main/Logo/Recon-Tools.PNG)
 
 # Recon Tools
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
  > A compiled list of tools for  
  reconnaissance and footprinting.
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 
 <div align="left" style="display:flex;flex-direction:column;">
   <p>
@@ -15,7 +16,7 @@
   </p>
 </div>
 
-##Contents
+## Contents
 
 ### [Domain and Network Information](https://github.com/nahberry/Recon-Tools/blob/main/Domain%20and%20Network%20Information/Domain_and_Network.md) :satellite:  
 Tools for grabbing network related information.  
