@@ -10,8 +10,7 @@ A public resource that allows a user to retrieve information
 about IP number resources, organizations, and Points of Contact registered with ARIN.  
 
 [Aquatone](https://github.com/michenriksen/aquatone) [program] :white_circle:   
-A tool for visual inspection of websites across a large amount of hosts and  
-is convenient for quickly gaining an overview of HTTP-based attack surface.  
+A tool for visual inspection of websites across a large amount of hosts. Very convenient for quickly gaining an overview of HTTP-based attack surfaces.  
 
 [Batch IP Converter](http://sabsoft.com) [program]  
 An award-winning network tool to work with IP addresses. Domain-to-IP Converter,  
@@ -22,7 +21,7 @@ Scans for over 46,953 different web technologies. Discover what tools a site use
 such as shopping carts, hosting, analytics, and more.  
 
 [Censys](https://censys.io) [program]  
-Mines a global internet dataset to enumerate assets that may compromise an attack surface  
+Mines a global internet dataset to enumerate assets that may compromise an attack surface.  
 
 [DataSploit](https://github.com/DataSploit/datasploit) [program] :white_circle:  
 Performs automated OSINT on a domain/email/username/phone and finds relevant information  
