@@ -90,19 +90,24 @@ Quick and easy Whois lookup. Domain name search, registration and availability, 
 ## Windows CLI
 >Command Line tools for quick and easy recon  
 
-nslookup - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup   
-tracert - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracert   
+[nslookup](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup)  
+Command-line tool for querying the Domain Name System to obtain name or IP address mapping and  
+other DNS records.  
+
+[tracert](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracert)  
+Commmand-line tool for displaying a route and measuring transit delays of packets across an Internal  
+Protocol network.  
 
 
 ## Linux CLI // Kali
 >Linux based command line tools for recon  
 either installable or built in to Kali  
 
-dig - https://linuxhandbook.com/dig-command/
-dnsrecon - https://tools.kali.org/information-gathering/dnsrecon :white_circle:  
-dnstracer - https://tools.kali.org/information-gathering/dnstracer :white_circle:  
-Fierce - https://github.com/mschwager/fierce :white_circle:  
-recon-ng - https://github.com/lanmaster53/recon-ng :white_circle:  
-traceroute - https://www.commandlinux.com/man-page/man1/traceroute.db.1.html  
-unicornscan - https://tools.kali.org/information-gathering/unicornscan :white_circle:   
-whois - https://www.commandlinux.com/man-page/man1/whois.1.html
+[dig](https://linuxhandbook.com/dig-command/)  
+[dnsrecon](https://tools.kali.org/information-gathering/dnsrecon) :white_circle:  
+[dnstracer](https://tools.kali.org/information-gathering/dnstracer) :white_circle:  
+[Fierce](https://github.com/mschwager/fierce) :white_circle:  
+[recon-ng](https://github.com/lanmaster53/recon-ng) :white_circle:  
+[traceroute](https://www.commandlinux.com/man-page/man1/traceroute.db.1.html)  
+[unicornscan](https://tools.kali.org/information-gathering/unicornscan) :white_circle:  
+[whois](https://www.commandlinux.com/man-page/man1/whois.1.html)  
