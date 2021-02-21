@@ -12,7 +12,7 @@ Pull detailed information from an email header. Also includes spam filtering.
 [Followerwonk](https://followerwonk.com) [web]  
 Information scraped from Twitter.  
 
-[Infoga](https://github.com/m4ll0k/infoga) [program]  
+[Infoga](https://github.com/m4ll0k/infoga) [program] :white_circle:  
 Gather email OSINT. Domains, sources, breaches, and more.  
 
 [Jigsaw](https://www.jigsawsecurityenterprise.com/)  
@@ -25,8 +25,8 @@ Locate personal information from family members to social media accounts.
 
 ## Linux CLI // Kali  
 
-[sherlock](https://github.com/sherlock-project/sherlock)  
+[sherlock](https://github.com/sherlock-project/sherlock) :white_circle:  
 Crawls the web for social profiles.  
 
-[theHarvester](https://tools.kali.org/information-gathering/theharvester)  
+[theHarvester](https://tools.kali.org/information-gathering/theharvester) :white_circle:  
 Pulls a list of email addresses of a specific domain from multiple search engines.  
