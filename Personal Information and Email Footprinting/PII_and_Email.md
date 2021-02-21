@@ -15,12 +15,18 @@ Information scraped from Twitter.
 [Infoga](https://github.com/m4ll0k/infoga) [program]  
 Gather email OSINT. Domains, sources, breaches, and more.  
 
+[Jigsaw](https://www.jigsawsecurityenterprise.com/)  
+OSINT-X Intelligence Collection Tool from Jigsaw allows for the collection of  
+data from RSS feeds, the dark web, Twitter, Facebook, and other sources.  
+
 [PeekYou](https://peekyou.com) [web]  
 Locate personal information from family members to social media accounts.  
 
 
 ## Linux CLI // Kali  
 
-Jigsaw - https://www.jigsawsecurityenterprise.com/  
-sherlock - https://github.com/sherlock-project/sherlock  
-theHarvester - https://tools.kali.org/information-gathering/theharvester  
+[sherlock](https://github.com/sherlock-project/sherlock)  
+Crawls the web for social profiles.  
+
+[theHarvester](https://tools.kali.org/information-gathering/theharvester)  
+Pulls a list of email addresses of a specific domain from multiple search engines.  
