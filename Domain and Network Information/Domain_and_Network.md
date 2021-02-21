@@ -104,10 +104,26 @@ Protocol network.
 either installable or built in to Kali  
 
 [dig](https://linuxhandbook.com/dig-command/)  
+Domain Information Groper - Queries the DNS of a given server.  
+
 [dnsrecon](https://tools.kali.org/information-gathering/dnsrecon) :white_circle:  
+Check NS Records for Zone Transfers, enumerate general DNS records, check cached DNS records, and more.  
+
 [dnstracer](https://tools.kali.org/information-gathering/dnstracer) :white_circle:  
+Determines where a given Domain Name Server gets its information from for a given hostname.  
+
 [Fierce](https://github.com/mschwager/fierce) :white_circle:  
+DNS reconnaissance tool for locating non-contiguous IP space.  
+
 [recon-ng](https://github.com/lanmaster53/recon-ng) :white_circle:  
+Provides a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly.  
+
 [traceroute](https://www.commandlinux.com/man-page/man1/traceroute.db.1.html)  
+Print the route packets trace to network host.  
+
 [unicornscan](https://tools.kali.org/information-gathering/unicornscan) :white_circle:  
+Provides a superior interface for introducing a stimulus into and measuring a response from a TCP/IP  
+enabled device or network.  
+
 [whois](https://www.commandlinux.com/man-page/man1/whois.1.html)  
+Quick and easy client for the whois directory service.  
