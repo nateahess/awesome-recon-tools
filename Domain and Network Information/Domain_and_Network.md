@@ -115,6 +115,9 @@ Determines where a given Domain Name Server gets its information from for a give
 [Fierce](https://github.com/mschwager/fierce) :white_circle:  
 DNS reconnaissance tool for locating non-contiguous IP space.  
 
+[Ghost Eye](https://github.com/BullsEye0/ghost_eye) :white_circle:  
+Information gathering tool for Whois, DNS, EtherApe, Nmap, and more.  
+
 [recon-ng](https://github.com/lanmaster53/recon-ng) :white_circle:  
 Provides a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly.  
 
