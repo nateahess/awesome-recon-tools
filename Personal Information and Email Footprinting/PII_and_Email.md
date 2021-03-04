@@ -15,7 +15,7 @@ Information scraped from Twitter.
 [Infoga](https://github.com/m4ll0k/infoga) [program] :white_circle:  
 Gather email OSINT. Domains, sources, breaches, and more.  
 
-[Jigsaw](https://www.jigsawsecurityenterprise.com/)  
+[Jigsaw](https://www.jigsawsecurityenterprise.com/) [program]
 OSINT-X Intelligence Collection Tool from Jigsaw allows for the collection of  
 data from RSS feeds, the dark web, Twitter, Facebook, and other sources.  
 
