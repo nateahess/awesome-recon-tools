@@ -3,9 +3,7 @@
 
 # Recon Tools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
  > A compiled list of tools for  
- >reconnaissance and footprinting.
-
-
+ > reconnaissance and footprinting.
 
 <div align="left" style="display:flex;flex-direction:column;">
   <p>
