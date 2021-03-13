@@ -24,5 +24,4 @@ Tools for finding personal information such as social networks and emails as wel
 * [Hacking with Google](https://github.com/nahberry/Recon-Tools/blob/main/Hacking%20with%20Google/Hacking_with_Google.md)  
 Use Google commands to your advantage  
 
-## Key
-:white_circle: = Open Source  
+Key - :white_circle: = Open Source  
