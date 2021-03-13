@@ -5,11 +5,11 @@
 ## Programs and Web Applications
 > Robust tools for network recon
 
-[ARIN Whois/RDAP](https://arin.net/about/welcom/region) [web] :white_circle:  
+[ARIN Whois/RDAP](https://arin.net/about/welcom/region) [web]    
 A public resource that allows a user to retrieve information  
 about IP number resources, organizations, and Points of Contact registered with ARIN.  
 
-[Aquatone](https://github.com/michenriksen/aquatone) [program] :white_circle:   
+[Aquatone](https://github.com/michenriksen/aquatone) [program]   
 A tool for visual inspection of websites across a large amount of hosts. Very convenient for quickly gaining an overview of HTTP-based attack surfaces.  
 
 [Batch IP Converter](http://sabsoft.com) [program]  
@@ -23,7 +23,7 @@ such as shopping carts, hosting, analytics, and more.
 [Censys](https://censys.io) [program]  
 Mines a global internet dataset to enumerate assets that may compromise an attack surface.  
 
-[DataSploit](https://github.com/DataSploit/datasploit) [program] :white_circle:  
+[DataSploit](https://github.com/DataSploit/datasploit) [program]   
 Performs automated OSINT on a domain/email/username/phone and finds relevant information  
 from different sources.  
 
@@ -54,11 +54,11 @@ Multiple tools from site report to DNS search.
 [Professional Toolset](https://network-tools.com) [program]  
 Ping, Tracert, HTTP Headers, and more!  
 
-[Shodan](https://shodan.io) [web] :white_circle:  
+[Shodan](https://shodan.io) [web]  
 Shodan has servers around the world that crawl the internet 24/7 to provide the latest  
 internet intelligence.  
 
-[SpiderFoot](https://www.spiderfoot.net/) [program] :white_circle:  
+[SpiderFoot](https://www.spiderfoot.net/) [program]    
 Automated OSINT collection!  
 
 [Traceroute NG](https://solarwinds.com/free-tools/traceroute-ng) [program]  
@@ -76,11 +76,11 @@ Port forwarding, network location, visual trace route, reverse IP domain check, 
 [Wappalyzer](https://www.wappalyzer.com) [web]  
 Identify technologies on websites. Find out the technology stack of any website.  
 
-[WebShag](https://github.com/wereallfeds/webshag) [program] :white_circle:  
+[WebShag](https://github.com/wereallfeds/webshag) [program]   
 Multi-threaded, multi-platform web server audit tool. Gathers useful functionalities  
 for web server auditing like website crawling, URL scanning, or file fuzzing.  
 
-[Wireshark](https://wireshark.org) [program] :white_circle:  
+[Wireshark](https://wireshark.org) [program]   
 The world's foremost and widely-used network protocol analyzer.  
 
 [Whois.net](https://whois.net) [web]  
@@ -106,25 +106,25 @@ either installable or built in to Kali
 [dig](https://linuxhandbook.com/dig-command/)  
 Domain Information Groper - Queries the DNS of a given server.  
 
-[dnsrecon](https://tools.kali.org/information-gathering/dnsrecon) :white_circle:  
+[dnsrecon](https://tools.kali.org/information-gathering/dnsrecon)   
 Check NS Records for Zone Transfers, enumerate general DNS records, check cached DNS records, and more.  
 
-[dnstracer](https://tools.kali.org/information-gathering/dnstracer) :white_circle:  
+[dnstracer](https://tools.kali.org/information-gathering/dnstracer)  
 Determines where a given Domain Name Server gets its information from for a given hostname.  
 
-[Fierce](https://github.com/mschwager/fierce) :white_circle:  
+[Fierce](https://github.com/mschwager/fierce)   
 DNS reconnaissance tool for locating non-contiguous IP space.  
 
-[Ghost Eye](https://github.com/BullsEye0/ghost_eye) :white_circle:  
+[Ghost Eye](https://github.com/BullsEye0/ghost_eye)  
 Information gathering tool for Whois, DNS, EtherApe, Nmap, and more.  
 
-[recon-ng](https://github.com/lanmaster53/recon-ng) :white_circle:  
+[recon-ng](https://github.com/lanmaster53/recon-ng)   
 Provides a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly.  
 
 [traceroute](https://www.commandlinux.com/man-page/man1/traceroute.db.1.html)  
 Print the route packets trace to network host.  
 
-[unicornscan](https://tools.kali.org/information-gathering/unicornscan) :white_circle:  
+[unicornscan](https://tools.kali.org/information-gathering/unicornscan)  
 Provides a superior interface for introducing a stimulus into and measuring a response from a TCP/IP  
 enabled device or network.  
 
