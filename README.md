@@ -157,7 +157,7 @@ enabled device or network.
 Quick and easy client for the whois directory service.
 
 
-# Personal Information & Email Footprinting
+# Personal Information and Email Footprinting
 
 #### Programs and Web Applications  
 
