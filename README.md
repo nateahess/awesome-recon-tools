@@ -21,7 +21,6 @@
 
 * [Hacking with Google](https://github.com/nahberry/awesome-recon-tools/blob/main/Hacking-With-Google/hacking-with-google.md) - Use Google commands to your advantage
 
-
 ## Domain and Network Recon
 
 #### Programs and Web Applications
