@@ -19,7 +19,7 @@
 
 * [Personal Information and Email Footprinting](#Personal-Information-and-Email-Footprinting) - Tools for finding personal information such as social networks and emails as well as footprinting tools for mail.
 
-* [Hacking with Google](#Hacking-with-Google) - Use Google commands to your advantage
+* [Hacking with Google](https://github.com/nahberry/awesome-recon-tools/blob/main/Hacking-With-Google/hacking-with-google.md) - Use Google commands to your advantage
 
 
 ## Domain and Network Recon
