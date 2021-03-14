@@ -79,8 +79,7 @@
 #### Windows CLI
 > Command Line tools for quick and easy recon  
 
-* [nslookup](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup) - Command-line tool for querying the Domain Name System to obtain name or IP address mapping and  
-other DNS records.
+* [nslookup](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup) - Command-line tool for querying the Domain Name System to obtain name or IP address mapping and other DNS records.
 
 * [tracert](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracert) - Commmand-line tool for displaying a route and measuring transit delays of packets across an Internal Protocol network.
 
