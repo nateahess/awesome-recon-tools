@@ -2,8 +2,7 @@
 ![header-image](https://github.com/nahberry/Recon-Tools/blob/main/Logo/Recon-Tools.PNG)
 
 # Recon Tools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
- > A compiled list of tools for  
- > reconnaissance and footprinting.
+ > A compiled list of tools for reconnaissance and footprinting.
 
 <div align="left" style="display:flex;flex-direction:column;">
   <p>
@@ -19,12 +18,12 @@
 
 * [Personal Information and Email Footprinting](#Personal-Information-and-Email-Footprinting) - Tools for finding personal information such as social networks and emails as well as footprinting tools for mail.
 
-* [Hacking with Google](https://github.com/nahberry/awesome-recon-tools/blob/main/Hacking-With-Google/hacking-with-google.md) - Use Google commands to your advantage
+* [Hacking with Google](#Hacking-with-Google) - Use Google commands to your advantage
 
 ## Domain and Network Recon
+> Robust tools for gathering domain and network information.
 
-#### Programs and Web Applications
-> Robust tools for network recon
+### Programs and Web Applications
 
 * [ARIN Whois/RDAP](https://arin.net/about/welcom/region) - A public resource that allows a user to retrieve information about IP number resources, organizations, and Points of Contact registered with ARIN.
 
@@ -74,17 +73,13 @@
 
 * [Whois.net](https://whois.net) - Quick and easy Whois lookup. Domain name search, registration and availability, and more.
 
-
-#### Windows CLI
-> Command Line tools for quick and easy recon  
+### Windows CLI
 
 * [nslookup](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup) - Command-line tool for querying the Domain Name System to obtain name or IP address mapping and other DNS records.
 
 * [tracert](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracert) - Commmand-line tool for displaying a route and measuring transit delays of packets across an Internal Protocol network.
 
-
-#### Linux CLI // Kali
-> Linux based command line tools for recon. Either installable or built in to Kali
+### Linux CLI // Kali
 
 * [dig](https://linuxhandbook.com/dig-command/) - Domain Information Groper - Queries the DNS of a given server.
 
@@ -104,10 +99,10 @@
 
 * [whois](https://www.commandlinux.com/man-page/man1/whois.1.html) - Quick and easy client for the whois directory service.
 
-
 ## Personal Information and Email Footprinting
+> Tools for gathering personal information, social networks, and email footprinting.
 
-#### Programs and Web Applications
+### Programs and Web Applications
 
 * [BeenVerified](https://beenverified.com) - Background checks with loads of information.
 
@@ -121,9 +116,54 @@
 
 * [PeekYou](https://peekyou.com) - Locate personal information from family members to social media accounts.
 
-
-#### Linux CLI // Kali  
+### Linux CLI // Kali  
 
 * [sherlock](https://github.com/sherlock-project/sherlock) - Crawls the web for social profiles.
 
 * [theHarvester](https://tools.kali.org/information-gathering/theharvester) - Pulls a list of email addresses of a specific domain from multiple search engines.
+
+## Hacking with Google
+> Commands (or "dorks") for the world's most popular search engine
+
+* __cache__ - this command will show you the cached version of any website.
+`cache: securitytrails.com`
+
+* __allintext__ - searches for specific text contained on any web page.
+`allintext: hacking tools`
+
+* __allintitle__ - exactly the same as allintext, but will show pages that contain titles with X characters.
+`allintitle:"Security Companies"`
+
+* __allinurl__ - it can be used to fetch results whose URL contains all the specified characters.
+`allinurl client area`
+
+* __filetype__ - used to search for any kind of file extensions, for example, if you want to search for jpg files you can use:
+`filetype: jpg`
+
+* __inurl__ - this is exactly the same as allinurl, but it is only useful for one single keyword.
+`inurl: admin`
+
+* __intitle__ - used to search for various keywords inside the title, for example,
+`intitle:security tools` will search for titles beginning with “security” but “tools” can be somewhere else in the page.
+
+* __inanchor__ - this is useful when you need to search for an exact anchor text used on any links.
+`inanchor:"cyber security"`
+
+* __intext__ - useful to locate pages that contain certain characters or strings inside their text.
+`intext:"safe internet"`
+
+* __link__ - will show the list of web pages that have links to the specified URL.
+`link: microsoft.com`
+
+* __site__ - will show you the full list of all indexed URLs for the specified domain and subdomain.
+`site:securitytrails.com`
+
+* __*__ - wildcard used to search pages that contain “anything” before your word.
+For example, `how to * a website`, will return “how to…” design/create/hack, etc… “a website”.
+
+* __|__ - this is a logical operator, for example, `"security" "tips"` will show all the sites which contain “security” or “tips,” or both words.
+
+* __+__ - used to concatenate words, useful to detect pages that use more than one specific key.
+`security + trails`
+
+* __–__ - minus operator is used to avoiding showing results that contain certain words, for example, `security -trails` will show pages that use “security” in their text, but not those that have the word “trails.”
