@@ -93,6 +93,8 @@
 
 * [recon-ng](https://github.com/lanmaster53/recon-ng) - Provides a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly.
 
+* [ronin-recon](https://github.com/ronin-rb/ronin-recon#readme) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
+
 * [traceroute](https://www.commandlinux.com/man-page/man1/traceroute.db.1.html) - Print the route packets trace to network host.
 
 * [unicornscan](https://tools.kali.org/information-gathering/unicornscan) - Provides a superior interface for introducing a stimulus into and measuring a response from a TCP/IP enabled device or network.
