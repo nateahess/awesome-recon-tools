@@ -114,6 +114,8 @@
 
 * [Infoga](https://github.com/m4ll0k/infoga) - Gather email OSINT. Domains, sources, breaches, and more.
 
+* [InstaPV](https://www.instapv.ai/) - Anonymous Instagram viewer for public stories, posts, reels, highlights and recent-followed timelines. No login, no password, no trace.
+
 * [Jigsaw](https://www.jigsawsecurityenterprise.com/) - OSINT-X Intelligence Collection Tool from Jigsaw allows for the collection of data from RSS feeds, the dark web, Twitter, Facebook, and other sources.
 
 * [PeekYou](https://peekyou.com) - Locate personal information from family members to social media accounts.
