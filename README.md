@@ -95,6 +95,10 @@
 
 * [ronin-recon](https://github.com/ronin-rb/ronin-recon#readme) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
 
+* [EXORR Recon Toolkit](https://github.com/exorrtech/exorr-recon-toolkit) - Automated recon pipeline (subfinder → httpx → nmap → nuclei) for continuous asset discovery and vulnerability scanning.
+
+* [EXORR Subdomain Monitor](https://github.com/exorrtech/exorr-subdomain-monitor) - Continuous subdomain discovery and change tracking with DNS resolution and HTTP probing.
+
 * [traceroute](https://www.commandlinux.com/man-page/man1/traceroute.db.1.html) - Print the route packets trace to network host.
 
 * [unicornscan](https://tools.kali.org/information-gathering/unicornscan) - Provides a superior interface for introducing a stimulus into and measuring a response from a TCP/IP enabled device or network.
