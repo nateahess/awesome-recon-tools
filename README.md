@@ -39,6 +39,10 @@
 
 * [DNSDumpster](https://dnsdumpster.com) - Can discover hosts related to a domain. Map an organizations attack surface with a virtual "dumpster dive."
 
+* [DomScan](https://domscan.net/tools/security) - Domain and network
+  reconnaissance across DNS, WHOIS/RDAP, TLS, subdomains, reputation, and
+  typosquatting.
+
 * [Domaintools](https://whois.domaintools.com) - Find Whois information quickly and easily including registrar, name servers, and etc.
 
 * [FindSubDomains](https://findsubdomains.com) - From Spyse. Awesome tool to find subdomains.
