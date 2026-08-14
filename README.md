@@ -126,6 +126,8 @@
 
 * [PeekYou](https://peekyou.com) - Locate personal information from family members to social media accounts.
 
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, and monitors.
+
 ### Linux CLI // Kali  
 
 * [sherlock](https://github.com/sherlock-project/sherlock) - Crawls the web for social profiles.
