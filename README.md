@@ -25,11 +25,9 @@
 
 ### Programs and Web Applications
 
-* [ARIN Whois/RDAP](https://arin.net/about/welcom/region) - A public resource that allows a user to retrieve information about IP number resources, organizations, and Points of Contact registered with ARIN.
+* [ARIN Whois/RDAP](https://www.arin.net/resources/registry/whois/) - A public resource that allows a user to retrieve information about IP number resources, organizations, and Points of Contact registered with ARIN.
 
-* [Aquatone](https://github.com/michenriksen/aquatone) - A tool for visual inspection of websites across a large amount of hosts. Very convenient for quickly gaining an overview of HTTP-based attack surfaces.
-
-* [Batch IP Converter](http://sabsoft.com) - An award-winning network tool to work with IP addresses. Domain-to-IP Converter, Batch Ping, Tracert, Whois, and more.
+* [Aquatone](https://github.com/michenriksen/aquatone) - A tool for visual inspection of websites across a large amount of hosts. Very convenient for quickly gaining an overview of HTTP-based attack surfaces. **Archived project.**
 
 * [BuiltWith](https://builtwith.com) - Scans for over 46,953 different web technologies. Discover what tools a site uses such as shopping carts, hosting, analytics, and more.
 
@@ -45,8 +43,6 @@
 
 * [Domaintools](https://whois.domaintools.com) - Find Whois information quickly and easily including registrar, name servers, and etc.
 
-* [FindSubDomains](https://findsubdomains.com) - From Spyse. Awesome tool to find subdomains.
-
 * [FireCompass](https://firecompass.com) - Discovers and organization's digital attack surface.
 
 * [Informer](https://website.informer.com/) - Retrieves a quick aggregated view of everything the Web can promptly tell you about a site.
@@ -59,7 +55,7 @@
 
 * [Shodan](https://shodan.io) - Shodan has servers around the world that crawl the internet 24/7 to provide the latest internet intelligence.
 
-* [SpiderFoot](https://www.spiderfoot.net/) - Automated OSINT collection!
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT collection!
 
 * [Traceroute NG](https://solarwinds.com/free-tools/traceroute-ng) - Continuous probing, detects path changes, supports IPv4 & IPv6, Creates a txt logfile.
 
@@ -99,9 +95,7 @@
 
 * [ronin-recon](https://github.com/ronin-rb/ronin-recon#readme) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
 
-* [EXORR Recon Toolkit](https://github.com/exorrtech/exorr-recon-toolkit) - Automated recon pipeline (subfinder → httpx → nmap → nuclei) for continuous asset discovery and vulnerability scanning.
-
-* [EXORR Subdomain Monitor](https://github.com/exorrtech/exorr-subdomain-monitor) - Continuous subdomain discovery and change tracking with DNS resolution and HTTP probing.
+* [EXORR Recon Toolkit](https://github.com/exorrtech/recon-toolkit) - Automated recon pipeline (subfinder → httpx → nmap → nuclei) for continuous asset discovery and vulnerability scanning.
 
 * [traceroute](https://www.commandlinux.com/man-page/man1/traceroute.db.1.html) - Print the route packets trace to network host.
 
@@ -116,11 +110,7 @@
 
 * [BeenVerified](https://beenverified.com) - Background checks with loads of information.
 
-* [eMailTrackerPro](https://emailtrackerpro.com) - Pull detailed information from an email header. Also includes spam filtering.
-
 * [Followerwonk](https://followerwonk.com) - Information scraped from Twitter.
-
-* [Infoga](https://github.com/m4ll0k/infoga) - Gather email OSINT. Domains, sources, breaches, and more.
 
 * [Jigsaw](https://www.jigsawsecurityenterprise.com/) - OSINT-X Intelligence Collection Tool from Jigsaw allows for the collection of data from RSS feeds, the dark web, Twitter, Facebook, and other sources.
 
