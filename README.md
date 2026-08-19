@@ -1,10 +1,10 @@
-<p align="center">
+<h1 align="center">
   <a href="https://github.com/servicelogon/awesome-recon-tools">
-    <img src="Logo/Recon-Tools.PNG" alt="Recon Tools" width="400">
+    <img src="Logo/Recon-Tools.PNG" alt="Awesome Recon Tools" width="400">
   </a>
-</p>
-
-# Awesome Recon Tools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+  <br>
+  Awesome Recon Tools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+</h1>
 
 Reconnaissance and footprinting techniques for discovering hosts, domains, infrastructure, identities, and other publicly available information.
 
@@ -98,20 +98,20 @@ Tools for gathering personal information, social-network information, and email-
 
 Search operators for finding publicly indexed information with Google.
 
-| Operator | Purpose |
-| --- | --- |
-| `"phrase"` | Searches for an exact word or phrase. |
-| `allintext:` | Searches for pages containing all specified terms in the page text. |
-| `allintitle:` | Searches for pages containing all specified terms in the page title. |
-| `allinurl:` | Searches for pages containing all specified terms in the URL. |
-| `after:` | Finds documents updated after a specified date. |
-| `before:` | Finds documents updated before a specified date. |
-| `filetype:` | Restricts results to a specified file type. |
-| `inurl:` | Searches for pages containing a specified term in the URL. |
-| `intitle:` | Searches for pages containing a specified term in the title. |
-| `inanchor:` | Searches for pages containing specified anchor text. |
-| `intext:` | Searches for pages containing a specified term in the page text. |
-| `site:` | Restricts results to a specified domain or site. |
-| `*` | Acts as a wildcard for one or more unspecified words. |
-| `|` | Acts as a logical OR operator between search terms. |
-| `-` | Excludes results containing a specified term. |
+| Operator       | Purpose                                                                  |
+| -------------- | ------------------------------------------------------------------------ |
+| `"phrase"`     | Searches for an exact word or phrase.                                    |
+| `allintext:`   | Searches for pages containing all specified terms in the page text.      |
+| `allintitle:`  | Searches for pages containing all specified terms in the page title.     |
+| `allinurl:`    | Searches for pages containing all specified terms in the URL.            |
+| `after:`       | Finds documents updated after a specified date.                          |
+| `before:`      | Finds documents updated before a specified date.                         |
+| `filetype:`    | Restricts results to a specified file type.                              |
+| `inurl:`       | Searches for pages containing a specified term in the URL.               |
+| `intitle:`     | Searches for pages containing a specified term in the title.             |
+| `inanchor:`    | Searches for pages containing specified anchor text.                     |
+| `intext:`      | Searches for pages containing a specified term in the page text.         |
+| `site:`        | Restricts results to a specified domain or site.                         |
+| `*`            | Acts as a wildcard for one or more unspecified words.                    |
+| `\|`           | Acts as a logical OR operator between search terms.                      |
+| `-`            | Excludes results containing a specified term.                            |
