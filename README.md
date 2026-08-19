@@ -18,12 +18,16 @@
 
 * [Personal Information and Email Footprinting](#Personal-Information-and-Email-Footprinting) - Tools for finding personal information such as social networks and emails as well as footprinting tools for mail.
 
+* [See Also](#See-Also) - Additional curated OSINT resources.
+
 * [Hacking with Google](#Hacking-with-Google) - Use Google commands to your advantage
 
 ## Domain and Network Recon
 > Robust tools for gathering domain and network information.
 
 ### Programs and Web Applications
+
+* [Amass](https://github.com/owasp-amass/amass) - In-depth attack-surface mapping and asset discovery tool combining passive OSINT, active DNS, certificate transparency, and brute force.
 
 * [ARIN Whois/RDAP](https://www.arin.net/resources/registry/whois/) - A public resource that allows a user to retrieve information about IP number resources, organizations, and Points of Contact registered with ARIN.
 
@@ -32,6 +36,8 @@
 * [BuiltWith](https://builtwith.com) - Scans for over 46,953 different web technologies. Discover what tools a site uses such as shopping carts, hosting, analytics, and more.
 
 * [Censys](https://censys.io) - Mines a global internet dataset to enumerate assets that may compromise an attack surface.
+
+* [crt.sh](https://crt.sh) - Free certificate transparency log search useful for discovering subdomains from certificate history.
 
 * [DataSploit](https://github.com/DataSploit/datasploit) - Performs automated OSINT on a domain/email/username/phone and finds relevant information from different sources.
 
@@ -45,17 +51,29 @@
 
 * [FireCompass](https://firecompass.com) - Discovers and organization's digital attack surface.
 
+* [GreyNoise](https://greynoise.io) - Provides context on internet background noise and scanners to help distinguish broad scanning from more targeted activity.
+
+* [httpx](https://github.com/projectdiscovery/httpx) - Fast, multi-purpose HTTP probing toolkit for identifying live web services from discovered hosts.
+
 * [Informer](https://website.informer.com/) - Retrieves a quick aggregated view of everything the Web can promptly tell you about a site.
 
 * [Maltego](https://maltego.com) - Open Source Intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 
 * [Netcraft](https://netcraft.com) - Multiple tools from site report to DNS search.
 
+* [Nmap](https://nmap.org) - Network discovery and security auditing tool for host discovery, port scanning, service detection, and more.
+
+* [Nuclei](https://github.com/projectdiscovery/nuclei) - Template-based scanner for validating vulnerabilities and exposures discovered during reconnaissance.
+
 * [Professional Toolset](https://network-tools.com) - Ping, Tracert, HTTP Headers, and more!
+
+* [SecurityTrails](https://securitytrails.com) - Historical DNS, WHOIS, and passive DNS platform useful for investigating infrastructure history.
 
 * [Shodan](https://shodan.io) - Shodan has servers around the world that crawl the internet 24/7 to provide the latest internet intelligence.
 
 * [SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT collection!
+
+* [Subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain discovery tool from ProjectDiscovery.
 
 * [Traceroute NG](https://solarwinds.com/free-tools/traceroute-ng) - Continuous probing, detects path changes, supports IPv4 & IPv6, Creates a txt logfile.
 
@@ -83,9 +101,9 @@
 
 * [dig](https://linuxhandbook.com/dig-command/) - Domain Information Groper - Queries the DNS of a given server.
 
-* [dnsrecon](https://tools.kali.org/information-gathering/dnsrecon) - Check NS Records for Zone Transfers, enumerate general DNS records, check cached DNS records, and more.
+* [dnsrecon](https://www.kali.org/tools/dnsrecon/) - Check NS Records for Zone Transfers, enumerate general DNS records, check cached DNS records, and more.
 
-* [dnstracer](https://tools.kali.org/information-gathering/dnstracer) - Determines where a given Domain Name Server gets its information from for a given hostname.
+* [dnstracer](https://www.kali.org/tools/dnstracer/) - Determines where a given Domain Name Server gets its information from for a given hostname.
 
 * [Fierce](https://github.com/mschwager/fierce) - DNS reconnaissance tool for locating non-contiguous IP space.
 
@@ -95,11 +113,9 @@
 
 * [ronin-recon](https://github.com/ronin-rb/ronin-recon#readme) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
 
-* [EXORR Recon Toolkit](https://github.com/exorrtech/recon-toolkit) - Automated recon pipeline (subfinder → httpx → nmap → nuclei) for continuous asset discovery and vulnerability scanning.
-
 * [traceroute](https://www.commandlinux.com/man-page/man1/traceroute.db.1.html) - Print the route packets trace to network host.
 
-* [unicornscan](https://tools.kali.org/information-gathering/unicornscan) - Provides a superior interface for introducing a stimulus into and measuring a response from a TCP/IP enabled device or network.
+* [unicornscan](https://www.kali.org/tools/unicornscan/) - Provides a superior interface for introducing a stimulus into and measuring a response from a TCP/IP enabled device or network.
 
 * [whois](https://www.commandlinux.com/man-page/man1/whois.1.html) - Quick and easy client for the whois directory service.
 
@@ -110,9 +126,17 @@
 
 * [BeenVerified](https://beenverified.com) - Background checks with loads of information.
 
-* [Followerwonk](https://followerwonk.com) - Information scraped from Twitter.
+* [Epieos](https://epieos.com) - Browser-based account and identity lookup tool using email and related public information.
 
-* [Jigsaw](https://www.jigsawsecurityenterprise.com/) - OSINT-X Intelligence Collection Tool from Jigsaw allows for the collection of data from RSS feeds, the dark web, Twitter, Facebook, and other sources.
+* [Followerwonk](https://followerwonk.com) - Social media audience research and analytics tool, now operated as part of Fedica's suite.
+
+* [GHunt](https://github.com/mxrch/GHunt) - Google-account OSINT framework for gathering publicly available information associated with an email address or Gaia ID.
+
+* [Have I Been Pwned](https://haveibeenpwned.com) - Breach-exposure lookup for email addresses and domains.
+
+* [Hunter.io](https://hunter.io) - Finds and verifies email addresses associated with a domain.
+
+* [Maigret](https://github.com/soxoj/maigret) - Username OSINT tool that checks thousands of sites for matching accounts and profiles.
 
 * [PeekYou](https://peekyou.com) - Locate personal information from family members to social media accounts.
 
@@ -122,7 +146,11 @@
 
 * [sherlock](https://github.com/sherlock-project/sherlock) - Crawls the web for social profiles.
 
-* [theHarvester](https://tools.kali.org/information-gathering/theharvester) - Pulls a list of email addresses of a specific domain from multiple search engines.
+* [theHarvester](https://www.kali.org/tools/theharvester/) - Pulls a list of email addresses of a specific domain from multiple search engines.
+
+## See Also
+
+* [OSINT Framework](https://osintframework.com) - Curated visual directory of OSINT tools and data sources organized by investigation category.
 
 ## Hacking with Google
 > Commands (or "dorks") for the world's most popular search engine
