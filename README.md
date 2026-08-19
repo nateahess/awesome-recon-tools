@@ -17,7 +17,6 @@ Robust tools for gathering domain and network information.
 
 - [Amass](https://github.com/owasp-amass/amass) - In-depth attack-surface mapping and asset discovery tool combining passive OSINT, active DNS, certificate transparency, and brute force.
 - [ARIN Whois/RDAP](https://www.arin.net/resources/registry/whois/) - Retrieves information about IP number resources, organizations, and points of contact registered with ARIN.
-- [Aquatone](https://github.com/michenriksen/aquatone) - Provides visual inspection of websites across a large number of hosts. **Archived project.**
 - [BuiltWith](https://builtwith.com) - Identifies technologies used by websites, including hosting, analytics, frameworks, and ecommerce platforms.
 - [Censys](https://censys.io) - Searches internet-wide datasets to discover hosts, services, certificates, and exposed infrastructure.
 - [crt.sh](https://crt.sh) - Searches certificate transparency logs to discover domains and subdomains from certificate history.
@@ -42,7 +41,6 @@ Robust tools for gathering domain and network information.
 - [URL Fuzzer](https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files#) - Scans websites for hidden files and directories.
 - [VisualRoute](http://www.visualroute.com) - Provides continuous tracerouting, reverse tracing, port probing, and route analysis.
 - [Wappalyzer](https://www.wappalyzer.com) - Identifies technologies and software stacks used by websites.
-- [WebShag](https://github.com/wereallfeds/webshag) - Multi-threaded web server auditing tool for crawling, URL scanning, and file fuzzing.
 - [Whois.net](https://whois.net) - Provides WHOIS lookup, domain registration information, and domain availability searches.
 - [Wireshark](https://wireshark.org) - Network protocol analyzer for inspecting and troubleshooting network traffic.
 - [You Get Signal](https://yougetsignal.com) - Provides port testing, network location, visual traceroute, reverse IP lookup, and related network utilities.
@@ -94,18 +92,18 @@ Tools for gathering personal information, social-network information, and email-
 
 Search operators for finding publicly indexed information with Google.
 
-- `cache:` - Shows a cached version of a website when available.
+- `"phrase"` - Searches for an exact word or phrase.
 - `allintext:` - Searches for pages containing all specified terms in the page text.
 - `allintitle:` - Searches for pages containing all specified terms in the page title.
 - `allinurl:` - Searches for pages containing all specified terms in the URL.
+- `after:` - Finds documents updated after a specified date.
+- `before:` - Finds documents updated before a specified date.
 - `filetype:` - Restricts results to a specified file type.
 - `inurl:` - Searches for pages containing a specified term in the URL.
 - `intitle:` - Searches for pages containing a specified term in the title.
 - `inanchor:` - Searches for pages containing specified anchor text.
 - `intext:` - Searches for pages containing a specified term in the page text.
-- `link:` - Searches for pages linking to a specified URL where supported.
 - `site:` - Restricts results to a specified domain or site.
 - `*` - Acts as a wildcard for one or more unspecified words.
 - `|` - Acts as a logical OR operator between search terms.
-- `+` - Forces inclusion of a term in supported search contexts.
 - `-` - Excludes results containing a specified term.
