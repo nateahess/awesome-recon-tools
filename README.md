@@ -50,6 +50,7 @@ Robust tools for gathering domain and network information.
 - [Whois.net](https://whois.net) - Provides WHOIS lookup, domain registration information, and domain availability searches.
 - [Wireshark](https://wireshark.org) - Network protocol analyzer for inspecting and troubleshooting network traffic.
 - [You Get Signal](https://yougetsignal.com) - Provides port testing, network location, visual traceroute, reverse IP lookup, and related network utilities.
+- [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain programs.
 
 ### Windows CLI
 
