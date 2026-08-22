@@ -3,8 +3,14 @@
     <img src="Logo/Recon-Tools.PNG" alt="Awesome Recon Tools" width="400">
   </a>
   <br>
-  Awesome Recon Tools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+  Awesome Recon Tools
 </h1>
+
+<p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+  </a>
+</p>
 
 Reconnaissance and footprinting techniques for discovering hosts, domains, infrastructure, identities, and other publicly available information.
 
