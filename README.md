@@ -48,6 +48,7 @@ Robust tools for gathering domain and network information.
 - [SecurityTrails](https://securitytrails.com) - Provides historical DNS, WHOIS, and passive DNS data for investigating infrastructure history.
 - [Shodan](https://shodan.io) - Internet intelligence search engine for discovering internet-connected systems, services, and exposed devices.
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT collection and attack-surface reconnaissance framework.
+- [StackScan](https://www.stackscan.com) - Identifies technologies on a domain and the company behind it, and searches in reverse to find every site running a given technology or serving a given asset.
 - [Subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain discovery tool from ProjectDiscovery.
 - [Traceroute NG](https://solarwinds.com/free-tools/traceroute-ng) - Continuously probes network paths, detects route changes, supports IPv4 and IPv6, and creates text log files.
 - [URL Fuzzer](https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files#) - Scans websites for hidden files and directories.
