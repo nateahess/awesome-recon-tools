@@ -43,6 +43,7 @@ Robust tools for gathering domain and network information.
 - [Maltego](https://maltego.com) - Open-source intelligence and graphical link-analysis platform for gathering and connecting investigative information.
 - [Netcraft](https://netcraft.com) - Provides site reports, DNS searches, hosting intelligence, and other internet reconnaissance tools.
 - [Nmap](https://nmap.org) - Network discovery and security auditing tool for host discovery, port scanning, and service detection.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous penetration testing platform: 50 specialist agents over MCP driving 50+ offensive tools across web, API, Active Directory, Kubernetes and cloud, self hosted, with a Privacy Gateway that keeps real IPs and credentials off any cloud model.
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Template-based scanner for validating vulnerabilities and exposures discovered during reconnaissance.
 - [Professional Toolset](https://network-tools.com) - Provides ping, traceroute, HTTP header inspection, and other network utilities.
 - [SecurityTrails](https://securitytrails.com) - Provides historical DNS, WHOIS, and passive DNS data for investigating infrastructure history.
