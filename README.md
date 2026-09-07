@@ -51,6 +51,7 @@ Robust tools for gathering domain and network information.
 - [Subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain discovery tool from ProjectDiscovery.
 - [Traceroute NG](https://solarwinds.com/free-tools/traceroute-ng) - Continuously probes network paths, detects route changes, supports IPv4 and IPv6, and creates text log files.
 - [URL Fuzzer](https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files#) - Scans websites for hidden files and directories.
+- [Vacato](https://vacato.io) - RDAP domain availability watchlist with scheduled checks and Telegram/email alerts when a taken name looks available (free 10; not a drop-catcher).
 - [VisualRoute](http://www.visualroute.com) - Provides continuous tracerouting, reverse tracing, port probing, and route analysis.
 - [Wappalyzer](https://www.wappalyzer.com) - Identifies technologies and software stacks used by websites.
 - [Whois.net](https://whois.net) - Provides WHOIS lookup, domain registration information, and domain availability searches.
